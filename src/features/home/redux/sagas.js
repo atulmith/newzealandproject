@@ -1,0 +1,1 @@
+export { watchGetListOfInvoices } from './getListOfInvoices';

@@ -1,0 +1,37 @@
+[
+  {
+    "clientname":"ABC Limited",
+    "invoiceId":"0181564",
+    "invoiceduedate":"12/02/19",
+    "invoiceamount":1500,
+    "discountoffered":0
+  },
+  {
+    "clientname":"DEF Limited",
+    "invoiceId":"752098",
+    "invoiceduedate":"22/02/19",
+    "invoiceamount":7520,
+    "discountoffered":350
+  },
+  {
+    "clientname":"GHI Limited",
+    "invoiceId":"045236",
+    "invoiceduedate":"23/02/19",
+    "invoiceamount":12300,
+    "discountoffered":500
+  },
+  {
+    "clientname":"JKL Limited",
+    "invoiceId":"092371",
+    "invoiceduedate":"02/03/19",
+    "invoiceamount":17270,
+    "discountoffered":0
+  },
+  {
+    "clientname":"MNO Limited",
+    "invoiceId":"000456",
+    "invoiceduedate":"12/03/19",
+    "invoiceamount":3580,
+    "discountoffered":0
+  }
+]
